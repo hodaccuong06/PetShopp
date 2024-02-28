@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/chua"   android:title="Chưa xác nhận" app:itemTextAppearance="@style/BottomNavTextStyle"/>
+    <item android:id="@+id/daxac"  android:title="Đã xác nhận" app:itemTextAppearance="@style/BottomNavTextStyle"/>
+    <item android:id="@+id/dagiao"  android:title="Đã giao" app:itemTextAppearance="@style/BottomNavTextStyle"/>
+</menu>
